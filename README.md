@@ -7,7 +7,7 @@
 1. [ ] [3184 or 3187](https://www.acmicpc.net/problem/3184)
 2. [x] [5014](https://www.acmicpc.net/problem/5014)
 3. [x] [9009](https://www.acmicpc.net/problem/9009)
-4. [ ] [12852](https://www.acmicpc.net/problem/12852)
+4. [x] [12852](https://www.acmicpc.net/problem/12852)
 5. [ ] [14575](https://www.acmicpc.net/problem/14575)
 6. [x] [15686](https://www.acmicpc.net/problem/15686)
 7. [ ] [15900](https://www.acmicpc.net/problem/15900)
