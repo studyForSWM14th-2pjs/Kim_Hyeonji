@@ -5,7 +5,7 @@
 ### Week2
 #### 백준
 1. [ ] [3184 or 3187](https://www.acmicpc.net/problem/3184)
-2. [] [5014](https://www.acmicpc.net/problem/5014)
+2. [x] [5014](https://www.acmicpc.net/problem/5014)
 3. [x] [9009](https://www.acmicpc.net/problem/9009)
 4. [ ] [12852](https://www.acmicpc.net/problem/12852)
 5. [ ] [14575](https://www.acmicpc.net/problem/14575)
