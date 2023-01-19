@@ -9,7 +9,7 @@
 3. [x] [9009](https://www.acmicpc.net/problem/9009)
 4. [ ] [12852](https://www.acmicpc.net/problem/12852)
 5. [ ] [14575](https://www.acmicpc.net/problem/14575)
-6. [ ] [15686](https://www.acmicpc.net/problem/15686)
+6. [x] [15686](https://www.acmicpc.net/problem/15686)
 7. [ ] [15900](https://www.acmicpc.net/problem/15900)
 8. [ ] [2792](https://www.acmicpc.net/problem/2792) (추가)
 9. [ ] [11568](https://www.acmicpc.net/problem/11568) (추가)
